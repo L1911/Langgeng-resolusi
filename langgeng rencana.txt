@@ -1,10 +1,12 @@
 rencana langgeng 
 - html 5
 - css3
- *menguasai position
  *memahami var
  *specificity
 - botstrap
  *membuat web untuk teman
 - javascript
-  ^react
+ *angular
+ *react
+
+
