@@ -3,5 +3,7 @@ rencana langgeng
 - css3
  *menguasai position
  *memahami var
+ *specificity
 - botstrap
+ *membuat web untuk teman
 - javascript
