@@ -4,3 +4,4 @@ rencana langgeng
  *menguasai position
  *memahami var
 - botstrap
+- javascript
