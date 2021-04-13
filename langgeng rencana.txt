@@ -7,3 +7,4 @@ rencana langgeng
 - botstrap
  *membuat web untuk teman
 - javascript
+  ^react
