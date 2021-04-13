@@ -1,7 +1,8 @@
 rencana langgeng 
 - html 5
 - css3
- *menguasai position
  *memahami var
 - botstrap
 - javascript
+ *angular
+ *react
